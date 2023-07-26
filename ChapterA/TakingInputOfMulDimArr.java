@@ -30,6 +30,12 @@ public class TakingInputOfMulDimArr {
         {
             System.out.println(Arrays.toString(array2D[row]));
         }
+        //For each loop
+        //for(data type Variable: array name) sout(variablename)
+        for(int[] a:array2D)
+        {
+            System.out.println(Arrays.toString(a));
+        }
 
 
 
